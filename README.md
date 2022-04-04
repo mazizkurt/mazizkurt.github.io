@@ -1,0 +1,1 @@
+# mazizkurt.github.io
