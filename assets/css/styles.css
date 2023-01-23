@@ -156,8 +156,8 @@ body.dark-theme {
 }
 
 .profile__perfil {
-  width: 200px;
-  height: 200px;
+  width: 120px;
+  height: 120px;
   background: linear-gradient(180deg, 
               hsla(var(--hue), var(--sat), var(--lig), 1) 0%, 
               hsla(var(--hue), var(--sat), var(--lig), .2) 100%);
@@ -169,7 +169,7 @@ body.dark-theme {
 }
 
 .profile__perfil img {
-  width: 75px;
+  width: 123px !important;
 }
 
 .profile__border {
